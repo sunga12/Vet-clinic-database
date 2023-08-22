@@ -44,6 +44,10 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 **Vet Clinic** is a database schema for a veterinary clinic. It allows to store information about pets, their owners, visits, and procedures.
 
+### Database Schema
+
+![Untitled](https://github.com/sunga12/Vet-clinic-database/assets/117270680/182098ee-bc16-429c-a838-352d4075dfb2)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
